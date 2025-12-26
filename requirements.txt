@@ -1,0 +1,10 @@
+tkinter
+threading
+os
+webbrowser
+osmnx
+networkx
+geopy
+numpy
+scikit-learn
+folium
